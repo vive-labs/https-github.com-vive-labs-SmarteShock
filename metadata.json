@@ -1,0 +1,7 @@
+{
+  "name": "Smart-e-Shock - On-Demand Handyman",
+  "description": "A marketplace connecting homeowners with local service professionals using AI for issue classification and smart matching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
